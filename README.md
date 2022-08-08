@@ -1,4 +1,4 @@
-# AirBnB Clone [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Abayie/AirBnB_clone/main/LICENSE) 
+# AirBnB Clone [
 ![HBnB Logo](./image/hbnb_logo.png)
 
 
