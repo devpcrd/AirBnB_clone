@@ -1,4 +1,4 @@
-# AirBnB Clone [
+# AirBnB Clone
 ![HBnB Logo](./image/hbnb_logo.png)
 
 
@@ -65,7 +65,7 @@ This repository contains the following files:
 ## Installation :hammer_and_wrench:
 Clone the repository and run the console.py
 ```
-$ git clone https://github.com/------/AirBnB_clone.git
+$ git clone https://github.com/devpcrd/AirBnB_clone.git
 ```
 
 ## Usage :wrench:
@@ -111,4 +111,5 @@ To all the peers that contribuited with their knowledge
 
 ### Authors :fountain_pen:
 * Ebubechukwu Okeke - @devpcrd
+* Asnake Mikru
 
